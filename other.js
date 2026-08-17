@@ -1,2 +1,2 @@
-const firstName = 'Jonas';
+const firstName = 'Pabi';
 console.log(months);
